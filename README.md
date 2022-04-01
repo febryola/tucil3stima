@@ -38,8 +38,8 @@ Untuk dapat menjalankan program ini sangat mudah:
 2. test = berisi file.txt yang berisi data uji puzzle
 3. readme
 4. src
- - function.py = berisi fungsi-fungsi branch and bound yang dibutuhkan program
- - puzzle.py = berisi kelas matrix puzzle
+ - functionFile.py = berisi fungsi-fungsi branch and bound dan pengelolaan file dan console yang dibutuhkan program
+ - puzzle15.py = berisi kelas puzzle dan node
  - main.py = program utama
  
 ## Message
